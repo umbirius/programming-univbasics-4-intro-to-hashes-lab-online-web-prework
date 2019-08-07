@@ -4,7 +4,7 @@ end
 
 def my_hash
   soccer = { 
-    
+    "city" = 1 
 end
 
 def pioneer
