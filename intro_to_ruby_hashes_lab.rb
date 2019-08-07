@@ -11,8 +11,8 @@ def my_hash
 end
 
 def pioneer
-  {name: "Grace Hopper", cups: "triple B"}
-  
+  her = {name: "Grace Hopper", cups: "triple B"}
+  her 
 end
 
 def id_generator
