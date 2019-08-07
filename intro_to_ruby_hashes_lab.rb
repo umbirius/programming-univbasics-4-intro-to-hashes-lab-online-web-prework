@@ -12,7 +12,7 @@ end
 
 def pioneer
   her = {name: "Grace Hopper", cups: "triple B"}
-  her 
+  her[name]
 end
 
 def id_generator
