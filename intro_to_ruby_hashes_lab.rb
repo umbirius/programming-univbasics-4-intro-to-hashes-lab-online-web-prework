@@ -11,7 +11,7 @@ def my_hash
 end
 
 def pioneer
-  {name: "Grace Hopper", cups: "triple B"}
+  {:name => "Grace Hopper", cups: "triple B"}
   name
 end
 
